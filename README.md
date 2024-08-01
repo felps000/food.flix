@@ -26,31 +26,9 @@ Implementamos a classe `Main` que contém o menu interativo para que os usuário
 
 ### **📚 Estrutura do Projeto:**
 
-FoodFlix 2.0/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ └── br/
-│ │ │ └── com/
-│ │ │ └── fourcamp/
-│ │ │ ├── controller/
-│ │ │ │ └── Main.java
-│ │ │ ├── exceptions/
-│ │ │ │ ├── InvalidInputException.java
-│ │ │ │ └── UserNotFoundException.java
-│ │ │ ├── models/
-│ │ │ │ ├── Order.java
-│ │ │ │ ├── Restaurant.java
-│ │ │ │ └── User.java
-│ │ │ ├── usecase/
-│ │ │ │ ├── OrderService.java
-│ │ │ │ ├── RestaurantService.java
-│ │ │ │ └── UserService.java
-│ │ │ └── utils/
-│ │ │ └── ValidationUtils.java
-│ │ └── resources/
-│ │ └── users.json
-└── ...
+<div align="center">
+<img src="https://github.com/user-attachments/assets/45a2b7c9-6e39-4a5e-b9c5-752f0458360b" height="600" />
+</div>
 
 ### 💻 Tecnologias usadas: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" width="50" height="50" />
