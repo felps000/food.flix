@@ -1,0 +1,20 @@
+{
+  "545.242.138-64": {
+    "name": "Felipe Rocha",
+    "phone": "(11)94153-2005",
+    "cpf": "545.242.138-64",
+    "password": "@Senha123",
+    "address": "Rua Dália, 972",
+    "securityQuestion": "Qual é o nome do seu primeiro animal de estimação?",
+    "securityAnswer": "Nick"
+  },
+  "535.242.138-64": {
+    "name": "Felipe",
+    "phone": "(11)95111-1111",
+    "cpf": "535.242.138-64",
+    "password": "s-@S1111",
+    "address": "1, 11",
+    "securityQuestion": "2. Qual é o nome da cidade onde você nasceu?",
+    "securityAnswer": "1"
+  }
+}
