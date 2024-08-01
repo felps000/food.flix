@@ -8,10 +8,6 @@ O objetivo deste projeto é criar um aplicativo de delivery chamado FoodFlix. At
 Todo o conteúdo do projeto está localizado na pasta do projeto FoodFlix 3.0:
 Além disso, possuímos um arquivo **.JAR** que pode ser executado no **CMD** ou **terminal** do seu sistema operacional. Todo o nosso projeto está localizado na pasta **src/br/com/fourcamp/**:
 
-<div align="center">
-<img src="link_da_imagem_do_projeto" height="400" />
-</div>
-
 ## 📝👨‍💻 Como foi criado:
 Criamos um processo em Java que realiza as seguintes operações:
 
