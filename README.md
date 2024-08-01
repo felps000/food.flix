@@ -1,11 +1,11 @@
 # FoodFlix - Projeto de Aplicativo de Delivery em Java
 
-📌 Projeto desenvolvido pela FourCamp.
+📌 Projeto desenvolvido por Felipe Rocha, projeto FourCamp.
 
 O objetivo deste projeto é criar um aplicativo de delivery chamado FoodFlix. Através de um menu interativo, os usuários podem cadastrar-se, fazer login, selecionar restaurantes, escolher itens do menu e realizar pedidos.
 
 ## **📍 IMPORTANTE 📍**
-Todo o conteúdo do projeto está localizado na pasta do projeto FoodFlix 2.0:
+Todo o conteúdo do projeto está localizado na pasta do projeto FoodFlix 3.0:
 Além disso, possuímos um arquivo **.JAR** que pode ser executado no **CMD** ou **terminal** do seu sistema operacional. Todo o nosso projeto está localizado na pasta **src/br/com/fourcamp/**:
 
 <div align="center">
