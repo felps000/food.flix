@@ -9,16 +9,16 @@ Todo o conteúdo do projeto está localizado na pasta do projeto FoodFlix 3.0:
 Além disso, possuímos um arquivo **.JAR** que pode ser executado no **CMD** ou **terminal** do seu sistema operacional. Todo o nosso projeto está localizado na pasta **src/br/com/fourcamp/**:
 
 ## 📝👨‍💻 Como foi criado:
-Criamos um processo em Java que realiza as seguintes operações:
+Criei um processo em Java que realiza as seguintes operações:
 
 ### **🛠️ Primeiro Passo:**
-Criamos a estrutura do projeto utilizando Maven para gerenciamento de dependências e organização do código.
+Criei a estrutura do projeto utilizando Maven para gerenciamento de dependências e organização do código.
 
 ### **🛠️ Segundo Passo:**
-Desenvolvemos as classes necessárias para representar os usuários, restaurantes, pedidos, além de serviços para manipular esses dados e utilitários para validação.
+Desenvolvi as classes necessárias para representar os usuários, restaurantes, pedidos, além de serviços para manipular esses dados e utilitários para validação.
 
 ### **🛠️ Terceiro Passo:**
-Implementamos a classe `Main` que contém o menu interativo para que os usuários possam navegar pelas opções disponíveis.
+Implementei a classe `Main` que contém o menu interativo para que os usuários possam navegar pelas opções disponíveis.
 
 ### **📚 Estrutura do Projeto:**
 
