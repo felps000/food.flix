@@ -1,20 +1,11 @@
 {
-  "545.242.138-64": {
-    "name": "Felipe Rocha",
-    "phone": "(11)94153-2005",
-    "cpf": "545.242.138-64",
-    "password": "@Senha123",
-    "address": "Rua das ruas, 123",
-    "securityQuestion": "Qual é o nome do seu primeiro animal de estimação?",
-    "securityAnswer": "Nick"
-  },
-  "111.111.111-11": {
-    "name": "Teste",
-    "phone": "(11)11111-1111",
-    "cpf": "111.111.111-11",
-    "password": "@Senha123",
-    "address": "Rua rua, 111",
-    "securityQuestion": "Qual é o nome do seu primeiro animal de estimação?",
-    "securityAnswer": "Dog"
+  "123.456.789-00": {
+    "name": "Test User",
+    "phone": "(11)99999-9999",
+    "cpf": "123.456.789-00",
+    "password": "NewPassword@123",
+    "address": "Test Street, 123",
+    "securityQuestion": "Test Question",
+    "securityAnswer": "Test Answer"
   }
 }
