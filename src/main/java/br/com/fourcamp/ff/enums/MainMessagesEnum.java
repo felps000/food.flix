@@ -13,7 +13,7 @@ public enum MainMessagesEnum {
     NEW_PASSWORD_PROMPT("Informe uma nova senha:"),
     PASSWORD_UPDATED("Senha atualizada com sucesso."),
     INVALID_SECURITY_ANSWER("Resposta de segurança inválida."),
-    USER_NOT_FOUND("Usuário não encontrado."),
+    USER_NOT_FOUND("Usuário não encontrado"),
     REGISTER_PROMPT("Usuário não encontrado. Por favor, faça seu cadastro."),
     NAME_PROMPT("Informe seu nome:"),
     PHONE_PROMPT("Informe seu telefone (com DDD):"),

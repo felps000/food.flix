@@ -3,9 +3,18 @@
     "name": "Test User",
     "phone": "(11)99999-9999",
     "cpf": "123.456.789-00",
-    "password": "NewPassword@123",
-    "address": "Test Street, 123",
-    "securityQuestion": "Test Question",
-    "securityAnswer": "Test Answer"
+    "password": "@Senha123",
+    "address": "Rua avenida, 123",
+    "securityQuestion": "1. Qual é o nome do seu primeiro animal de estimação?",
+    "securityAnswer": "Dog"
+  },
+  "545.242.138-64": {
+    "name": "Felipe Rocha",
+    "phone": "(11)11111-1111",
+    "cpf": "545.242.138-64",
+    "password": "@Senha123",
+    "address": "Rua avenida, 123",
+    "securityQuestion": "1. Qual é o nome do seu primeiro animal de estimação?",
+    "securityAnswer": "Nick"
   }
 }
