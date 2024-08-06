@@ -25,6 +25,7 @@ public class Main {
     private static final double EXTRA_RESTAURANT_MAX_FEE = 10.00;
 
     public static void main(String[] args) {
+        logger.info(MainMessagesEnum.START_APP.getMessage());
         System.out.println(MainMessagesEnum.START_APP.getMessage());
 
         RestaurantService restaurantService = new RestaurantService();
