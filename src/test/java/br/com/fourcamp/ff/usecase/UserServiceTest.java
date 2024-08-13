@@ -1,7 +1,7 @@
 package br.com.fourcamp.ff.usecase;
 
-import br.com.fourcamp.ff.exceptions.UserNotFoundException;
-import br.com.fourcamp.ff.models.User;
+import br.com.fourcamp.ff.exception.UserNotFoundException;
+import br.com.fourcamp.ff.model.User;
 import org.junit.Before;
 import org.junit.Test;
 

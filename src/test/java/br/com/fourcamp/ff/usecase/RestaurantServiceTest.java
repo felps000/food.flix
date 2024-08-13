@@ -1,6 +1,6 @@
 package br.com.fourcamp.ff.usecase;
 
-import br.com.fourcamp.ff.models.Restaurant;
+import br.com.fourcamp.ff.model.Restaurant;
 import org.junit.Before;
 import org.junit.Test;
 

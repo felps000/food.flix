@@ -1,4 +1,4 @@
-package br.com.fourcamp.ff.models;
+package br.com.fourcamp.ff.model;
 
 import java.util.List;
 import java.util.Map;

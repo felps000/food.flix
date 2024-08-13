@@ -1,6 +1,6 @@
-package br.com.fourcamp.ff.utils;
+package br.com.fourcamp.ff.util;
 
-import br.com.fourcamp.ff.exceptions.InvalidInputException;
+import br.com.fourcamp.ff.exception.InvalidInputException;
 
 import java.util.regex.Pattern;
 

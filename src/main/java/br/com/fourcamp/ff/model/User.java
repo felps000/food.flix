@@ -1,4 +1,4 @@
-package br.com.fourcamp.ff.models;
+package br.com.fourcamp.ff.model;
 
 public class User {
     private final String name;
