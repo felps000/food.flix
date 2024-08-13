@@ -16,5 +16,14 @@
     "address": "Rua avenida, 123",
     "securityQuestion": "1. Qual é o nome do seu primeiro animal de estimação?",
     "securityAnswer": "Nick"
+  },
+  "123.123.123-12": {
+    "name": "Felipe",
+    "phone": "(11)94153-2005",
+    "cpf": "123.123.123-12",
+    "password": "@SEnha123",
+    "address": "Rua Rua, 123",
+    "securityQuestion": "1. Qual é o nome do seu primeiro animal de estimação?",
+    "securityAnswer": "dog"
   }
 }
